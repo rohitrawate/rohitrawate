@@ -1,7 +1,11 @@
 
 <!--
 **rohitrawate/rohitrawate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+👋 Hi, I’m Rohit Rawate
+👀 I’m interested in DevOps and new tech
+🌱 I’m currently learning DSA for improving my problem solving skills and some Web development.
+💞️ I’m looking to collaborate on any good ideas.
+📫 Reach me out at rohitrawate007@gmail.com
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
