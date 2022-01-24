@@ -1,13 +1,18 @@
 
-<!--
-**rohitrawate/rohitrawate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-👋 Hi, I’m Rohit Rawate
-👀 I’m interested in DevOps and new tech
-🌱 I’m currently learning DSA for improving my problem solving skills and some Web development.
-💞️ I’m looking to collaborate on any good ideas.
-📫 Reach me out at rohitrawate007@gmail.com
-Here are some ideas to get you started:
 
+<!-- **rohitrawate/rohitrawate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+👋 Hi, I’m Rohit Rawate 
+
+👀 I’m interested in DevOps and new tech
+
+🌱 I’m currently learning DSA for improving my problem solving skills and some Web development.
+
+<!-- 💞️ I’m looking to collaborate on any good ideas. -->
+
+📫 Reach me out at rohitrawate007@gmail.com
+
+<!-- Here are some ideas to get you started: 
+  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -19,10 +24,10 @@ Here are some ideas to get you started:
 -->
 
 ![Header](https://github.com/rohitrawate/rohitrawate/blob/main/images/HelloWorld.jpeg)
-## Hi👋, I'm Rohit
+<!-- ## Hi👋, I'm Rohit -->
 
 Young aspiring and passionate developer.
-<div class="row">
+<!-- <div class="row">
 <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a> 
 <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
@@ -34,7 +39,7 @@ Young aspiring and passionate developer.
 
 </div> 
  
-<h3 align="left" dir="auto"><a id="user-content-connect-with-me" class="anchor" aria-hidden="true" href="#connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Connect with me:</h3>
+<h3 align="left" dir="auto"><a id="user-content-connect-with-me" class="anchor" aria-hidden="true" href="#connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Connect with me:</h3> -->
 
 <!-- <h4>LinkedIn :</h4>  -->
  <li> <a font face="italic" href="https://www.linkedin.com/in/rohitrawate/" target="_blank">LinkedIn</a></li>
